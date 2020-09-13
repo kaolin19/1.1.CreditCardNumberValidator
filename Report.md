@@ -16,12 +16,12 @@
 * Задание №2 https://github.com/netology-code/javaqa-homeworks/tree/master/intro#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2---credit-card-number-validator
 
 
-В качестве тестовых данных использовались данные тестовых номеров кредитных карт с сайта https://www.freeformatter.com/credit-card-number-generator-validator.html:
+В качестве тестовых данных использовались данные тестовых номеров кредитных карт с сайта https://saijogeorge.com/dummy-credit-card-generator/:
 * Валидные данные:
-  * 4716281463476542
-  * 4929624324526588
-  * 4024007137730955373
-  * 471628146347654
+  * 5402025370353302
+  * 4189423850210435
+  * 4571503271625
+  * 350621260455026
 
 
 Тестирование производилось в следующем окружении:
