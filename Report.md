@@ -27,3 +27,4 @@
 Тестирование производилось в следующем окружении:
 * Windows 8.1 x64
 * openjdk 10.0.8
+* IntelliJ IDEA 2020.2.1 (Community Edition)
